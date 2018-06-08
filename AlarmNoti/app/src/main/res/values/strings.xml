@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AlarmNoti</string>
+    <string name="todo">やること</string>
+    <string name="set">セット</string>
+    <string name="cancel">解 除</string>
+    <string name="channel_name">AlarmNoti_channel</string>
+    <string name="channel_description">AlarmNotiちゃんねる</string>
+</resources>
