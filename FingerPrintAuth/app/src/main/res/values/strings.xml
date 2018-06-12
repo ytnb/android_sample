@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FingerPrintAuth</string>
+    <string name="fingerprint_description">指紋認証をします</string>
+    <string name="fingerprint_hint">センサーに触れてください</string>
+    <string name="fingerprint_not_recognized">認証できません。もう一度</string>
+    <string name="fingerprint_success">認証しました！</string>
+</resources>
