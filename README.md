@@ -1,0 +1,20 @@
+1. MulitiActivity
+   1. [intent](MultiActivity/app/src/main/java/com/example/ytnb/multiactivity/)
+   1. [layout](MultiActivity/app/src/main/res/layout/)
+1. TwuTouchMail
+   1. [intent](TwoTouchMail/app/src/main/java/com/example/ytnb/twotouchmail/)
+   1. [layout](TwoTouchMail/app/src/main/res/layout/)
+1. AnbayashiRoulette
+   1. [RecyclerView](AnbayashiRoulette/app/src/main/java/com/example/ytnb/anbayashiroulette/)
+   1. [CardView/layout](AnbayashiRoulette/app/src/main/res/layout/)
+   1. [build.gradle](AnbayashiRoulette/app/build.gradle#L33-L34)
+1. BatteryWatch
+   1. [BroadcastReceiver](BatteryWatch/app/src/main/java/com/example/ytnb/batterywatch/)
+1. AlarmNoti
+   1. [AlarmManager/TimePicker/PendingIntent/BroadcastReceiver](AlarmNoti/app/src/main/java/com/example/ytnb/alarmnoti/)
+   1. [layout](AlarmNoti/app/src/main/res/layout/)
+   1. [manifests](AlarmNoti/app/src/main/AndroidManifest.xml#L19)
+1. MasterDetailSample
+   1. [Flagment/Master-DetailFlow](MasterDetailSample/app/src/main/java/com/example/ytnb/masterdetailsample/)
+   1. [layout](MasterDetailSample/app/src/main/res/layout/)
+   1. [layout-w900dp](MasterDetailSample/app/src/main/res/layout-w900dp/)
