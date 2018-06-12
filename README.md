@@ -15,3 +15,6 @@
    1. [layout](AlarmNoti/app/src/main/res/layout/)
    1. [manifests](AlarmNoti/app/src/main/AndroidManifest.xml#L19)
 1. MasterDetailSample
+   1. [Flagment/Master-DetailFlow](MasterDetailSample/app/src/main/java/com/example/ytnb/masterdetailsample/)
+   1. [layout](MasterDetailSample/app/src/main/res/layout/)
+   1. [layout-w900dp](MasterDetailSample/app/src/main/res/layout-w900dp/)
