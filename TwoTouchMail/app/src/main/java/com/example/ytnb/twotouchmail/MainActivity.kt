@@ -3,7 +3,7 @@ package com.example.ytnb.twotouchmail
 import android.content.Intent
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.Button
+import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
 
@@ -11,13 +11,11 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val btnPickUp: Button = findViewById(R.id.button_pickup)
-        btnPickUp.setOnClickListener{
+        button_pickup.setOnClickListener{
             val intent = Intent(this,PickUpActivity::class.java)
             startActivity(intent)
         }
-        val btnNoDinner: Button = findViewById(R.id.button_no_dinner)
-        btnNoDinner.setOnClickListener{
+        button_no_dinner.setOnClickListener{
             val intent = Intent(this,NoDinnerActivity::class.java)
             startActivity(intent)
         }
