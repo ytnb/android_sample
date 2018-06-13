@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
         llManager.orientation = LinearLayoutManager.VERTICAL
         cardList.layoutManager = llManager
 
-        var anbayasi: ArrayList<AnbayasiData> = ArrayList<AnbayasiData>()
+        val anbayasi: ArrayList<AnbayasiData> = arrayListOf()
         for (i in MyData.commentArray.indices){
             anbayasi.add(AnbayasiData(
                     MyData.numberArray[i],

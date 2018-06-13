@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AnbayashiRoulette</string>
+    <string name="view_number">%1d 本</string>
 </resources>
