@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DataBinding2</string>
+    <string name="error_message">宛先を必ず指定してください。</string>
+    <string name="to">To</string>
+</resources>
