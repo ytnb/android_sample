@@ -46,3 +46,8 @@
    1. [Camera/DropboxAPI/AsyncTask/RuntimePermission](PhoneToDrobox/app/src/main/java/com/example/ytnb/phonetodrobox/)
    1. [AndroidManifest](PhoneToDrobox/app/src/main/AndroidManifest.xml)
    1. [layout](PhoneToDrobox/app/src/main/res/layout/)
+1. DataBinding
+   1. [build.gradle](DataBinding2/app/build.gradle)
+   1. [layout](DataBinding2/app/src/main/res/layout/activity_main.xml)
+   1. [BindingAdapter](DataBinding2/app/src/main/java/com/example/ytnb/databinding2/BindingExtension.kt)
+   1. [RecyclerView](DataBinding1/app/src/main/java/com/example/ytnb/databinding1/BookAdapter.kt)
