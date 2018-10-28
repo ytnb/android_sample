@@ -50,3 +50,4 @@
    1. [build.gradle](DataBinding2/app/build.gradle)
    1. [layout](DataBinding2/app/src/main/res/layout/activity_main.xml)
    1. [BindingAdapter](DataBinding2/app/src/main/java/com/example/ytnb/databinding2/BindingExtension.kt)
+   1. [RecyclerView](DataBinding1/app/src/main/java/com/example/ytnb/databinding1/BookAdapter.kt)
