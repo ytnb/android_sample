@@ -52,4 +52,5 @@
    1. [BindingAdapter](DataBinding2/app/src/main/java/com/example/ytnb/databinding2/BindingExtension.kt)
    1. [RecyclerView](DataBinding1/app/src/main/java/com/example/ytnb/databinding1/BookAdapter.kt)
 1. ListView in Java
-   1. [ListView](ListViewSample/app/src/main/java/com/example/ytnb/listviewsample/MainActivity.java)
+   1. [custom layout ListView](ListViewSample/app/src/main/java/com/example/ytnb/listviewsample/MainActivity.java)
+   1. [layout](ListViewSample/app/src/main/res/layout/)
